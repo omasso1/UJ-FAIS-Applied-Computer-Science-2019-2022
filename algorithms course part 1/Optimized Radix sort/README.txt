@@ -1,0 +1,1 @@
+The program takes numbers to sort from standard input, sorts them using radix sort and writes them to standard output

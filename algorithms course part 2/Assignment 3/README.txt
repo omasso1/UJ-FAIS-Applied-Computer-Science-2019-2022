@@ -1,0 +1,1 @@
+Program generates labirynth using DFS algorythm
